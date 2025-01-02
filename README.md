@@ -1,4 +1,4 @@
-# Java_lering
+# Java_learing
 以下是一份Java语言学习路线图：
 
 ### 基础入门
